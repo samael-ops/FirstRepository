@@ -3,3 +3,5 @@ This is my new line in test file
 Hello world!!
 Another line!!
 Line frim user1
+Another line from user2
+
